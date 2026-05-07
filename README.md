@@ -24,12 +24,15 @@ Aplikasi ini memungkinkan admin untuk mengelola data karyawan, mulai dari autent
 - `db.php` - Konfigurasi koneksi database menggunakan PDO.
 - `database.php` - Kumpulan fungsi *helper* untuk kueri database.
 - `index.php` - Dashboard utama dengan ringkasan statistik.
+- `navbar-1.php` - Komponen Head & Session (Mengatur keamanan akses dan pemanggilan CSS).
+- `navbar-2.php` - Komponen Topbar & Sidebar (Navigasi menu utama dan profil user).
 - `karyawan.php` - Form manajemen profil karyawan secara individual.
 - `data-karyawan.php` - Tabel daftar seluruh karyawan dengan kueri JOIN.
 - `simpan-hapus-karyawan.php` - Backend pemrosesan data (Insert/Update/Delete).
 - `script.js` - Logika frontend, animasi, dan pratinjau foto.
 - `Logout.php` - Logika logout user.
 - `DDL_SIMK` - Query DDL untuk membuat struktur database.
+- `uploads/` - Direktori penyimpanan berkas gambar.
 
 ## Cara Menjalankan di Localhost
 1. Clone repositori ini ke folder `htdocs` (XAMPP) atau `www` (Laragon).
