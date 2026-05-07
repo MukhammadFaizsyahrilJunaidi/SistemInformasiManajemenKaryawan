@@ -1,6 +1,6 @@
 # Sistem Informasi Manajemen Karyawan (SIMK) - Web Simulation
 
-SIMK adalah aplikasi berbasis web yang dirancang untuk mensimulasikan sistem pendataan pegawai secara digital. Proyek ini dikembangkan menggunakan **PHP Native** dan **MySQL** sebagai bagian dari portofolio teknis untuk pendaftaran **Staff PIT (Publikasi & IT) RAJA Brawijaya 2026**.
+SIMK adalah aplikasi berbasis web yang dirancang untuk mensimulasikan sistem pendataan pegawai secara digital. Proyek ini dikembangkan menggunakan **PHP Native** dan **MySQL** sebagai bagian dari portofolio.
 
 ## Deskripsi Proyek
 Aplikasi ini memungkinkan admin untuk mengelola data karyawan, mulai dari autentikasi keamanan hingga pengelolaan profil lengkap dengan unggah foto. Fokus utama proyek ini adalah pada implementasi **logika backend** yang aman dan **manajemen database relasional**.
@@ -38,4 +38,4 @@ Aplikasi ini memungkinkan admin untuk mengelola data karyawan, mulai dari autent
 5. Buka browser dan akses: `http://localhost/[nama-folder-anda]/auth.php`.
 
 ## Catatan
-Proyek ini merupakan bentuk simulasi mandiri untuk mendalami alur *backend development* dan pengelolaan data sistem informasi dalam skala kepanitiaan universitas.
+Proyek ini merupakan bentuk simulasi mandiri untuk mendalami alur *backend development* dan pengelolaan data sistem informasi.
